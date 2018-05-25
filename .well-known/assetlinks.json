@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "web",
+    "site": "https://alburt.us"
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.wbmd.appindexingpoc",
+               "sha256_cert_fingerprints": ["86:04:9B:38:E2:5F:FF:1E:A2:8B:3D:6E:3D:8C:48:A5:58:00:8B:AD:23:22:60:D3:36:91:84:E7:3E:7F:2E:CB"] }
+}]
