@@ -70,9 +70,9 @@ h1 {
   height:90px;
 }
 
-.reardon .profile-image { background-image:url("img/reardon.jpg"); }
-.saberhagen .profile-image { background-image:url("img/saberhagen.jpg"); }
-.eckersley .profile-image { background-image:url("img/eckersley.jpg"); background-size:120px; }
+.reardon .profile-image { background-image:url("../img/reardon.jpg"); }
+.saberhagen .profile-image { background-image:url("../img/saberhagen.jpg"); }
+.eckersley .profile-image { background-image:url("../img/eckersley.jpg"); background-size:120px; }
 
 .profile-text {
 
