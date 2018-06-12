@@ -13,4 +13,13 @@
     "namespace": "web",
     "site": "https://alburt.us"
   }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wbmd.appindexingpoc",
+    "sha256_cert_fingerprints":
+    ["5C:A3:91:04:42:7B:49:A7:36:EF:A6:0E:0A:50:0A:86:E8:CB:4A:38:F0:A8:20:73:17:E2:EE:88:A9:3B:BF:82"]
+  }
 }]
