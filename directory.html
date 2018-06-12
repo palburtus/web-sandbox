@@ -11,7 +11,7 @@
 			<h1>Directory of baseball players with facial hair</h1>
 			<div class="profiles-wrapper">
 
-				<a href="valilind.html"><!-- www.alburt.us/reardon.html -->
+				<a onclick="addParameters(this)" href="valilind.html" ><!-- www.alburt.us/reardon.html -->
 				 	<div class="profile reardon">
 				 		<div class="profile-image"></div>
 				 		<div class="profile-text">
@@ -24,7 +24,7 @@
 				 	</div><!--profile-->
 			 	</a>
 				
-				<a href="valililind.html">
+				<a onclick="addParameters(this)" href="valililind.html">
 				 	<div class="profile saberhagen">
 				 		<div class="profile-image"></div>
 				 		<div class="profile-text">
@@ -37,7 +37,7 @@
 				 	</div><!--profile-->
 			 	</a>
 
-				<a href="valilililind.html">
+				<a onclick="addParameters(this)" href="valilililind.html">
 				 	<div class="profile eckersley">
 				 		<div class="profile-image"></div>
 				 		<div class="profile-text">
@@ -56,3 +56,10 @@
 		<footer></footer>
   </body>
 </html>
+<script type="text/javascript">
+	function addParameters(element)
+     {
+    $(element).attr('href', function() {
+        return this.href + '&profile=profile-text';
+    });
+</script>
