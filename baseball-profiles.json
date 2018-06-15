@@ -1,0 +1,74 @@
+[
+  {
+  "name": "Dennis Valilililind",
+    "logo": "https://alburt.us/content/img/athletics_logo.png",
+    "specialty": "Pitcher",
+    "photo" : "https://alburt.us/content/img/eckersley.jpg",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+},
+  {
+  "name": "Brett Valililind",
+    "logo": "https://alburt.us/content/img/royals_logo.gif",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/saberhagen.jpg",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+},
+  {
+  "name": "Jeff Valilind",
+    "logo": "https://alburt.us/content/img/sox_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/reardon.jpg",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+},
+  {
+    "name": "Miguel Andujar",
+    "logo": "https://alburt.us/content/img/ny_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/ny_logo.png",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+  },
+  {
+    "name": "Tyler Austin",
+    "logo": "https://alburt.us/content/img/ny_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/ny_logo.png",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+  },
+  {
+    "name": "Dellin Betances",
+    "logo": "https://alburt.us/content/img/ny_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/ny_logo.png",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+  },
+  {
+    "name": "Greg Bird",
+    "logo": "https://alburt.us/content/img/ny_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/ny_logo.png",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+  },
+  {
+    "name": "Chris Carter",
+    "logo": "https://alburt.us/content/img/ny_logo.png",
+    "specialty": "Pitcher",
+    "photo": "https://alburt.us/content/img/ny_logo.png",
+    "address_top": "395 Hudson St.",
+    "address_bottom": "New York, NY 10014",
+    "location_photo": "https://alburt.us/content/img/baseball_location.png"
+  }
+]
