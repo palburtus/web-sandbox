@@ -1,6 +1,7 @@
 [
   {
-  "name": "Dennis Valilililind",
+  "first_name": "Dennis",
+  "last_name": "Valilililind",
     "logo": "https://alburt.us/content/img/athletics_logo.png",
     "specialty": "Pitcher",
     "photo" : "https://alburt.us/content/img/eckersley.jpg",
@@ -9,7 +10,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
 },
   {
-  "name": "Brett Valililind",
+  "first_name": "Brett",
+    "last_name": "Valililind",
     "logo": "https://alburt.us/content/img/royals_logo.gif",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/saberhagen.jpg",
@@ -18,7 +20,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
 },
   {
-  "name": "Jeff Valilind",
+  "first_name": "Jeff",
+    "last_name": "Valilind",
     "logo": "https://alburt.us/content/img/sox_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/reardon.jpg",
@@ -27,7 +30,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
 },
   {
-    "name": "Miguel Andujar",
+    "first_name": "Miguel",
+      "last_name": "Andujar",
     "logo": "https://alburt.us/content/img/ny_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/ny_logo.png",
@@ -36,7 +40,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
   },
   {
-    "name": "Tyler Austin",
+    "first_name": "Tyler",
+      "last_name": "Austin",
     "logo": "https://alburt.us/content/img/ny_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/ny_logo.png",
@@ -45,7 +50,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
   },
   {
-    "name": "Dellin Betances",
+    "first_name": "Dellin",
+      "last_name": "Betances",
     "logo": "https://alburt.us/content/img/ny_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/ny_logo.png",
@@ -54,7 +60,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
   },
   {
-    "name": "Greg Bird",
+    "first_name": "Greg",
+      "last_name": "Bird",
     "logo": "https://alburt.us/content/img/ny_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/ny_logo.png",
@@ -63,7 +70,8 @@
     "location_photo": "https://alburt.us/content/img/baseball_location.png"
   },
   {
-    "name": "Chris Carter",
+    "first_name": "Chris",
+      "last_name": "Carter",
     "logo": "https://alburt.us/content/img/ny_logo.png",
     "specialty": "Pitcher",
     "photo": "https://alburt.us/content/img/ny_logo.png",
